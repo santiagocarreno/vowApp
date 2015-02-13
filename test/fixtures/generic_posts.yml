@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  generic_post_id: MyString
+  hashtag_sponsor: MyString
+  mentions: MyString
+  media_url: MyString
+
+two:
+  generic_post_id: MyString
+  hashtag_sponsor: MyString
+  mentions: MyString
+  media_url: MyString

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  social_network_account_id: MyString
+  token_auth: 
+  kred: MyString
+  peer_index: MyString
+  reach_in: MyString
+  reach_out: MyString
+  social_network_account_url: MyString
+
+two:
+  social_network_account_id: MyString
+  token_auth: 
+  kred: MyString
+  peer_index: MyString
+  reach_in: MyString
+  reach_out: MyString
+  social_network_account_url: MyString
